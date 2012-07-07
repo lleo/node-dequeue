@@ -8,9 +8,6 @@ scales up to millions of entries.
 
 It is a dropin replacement for javascript-arrays-as-fifo.
 
-BTW, I use [Felix's Node.js Style Guide](http://nodeguide.com/style.html);
-get over it ;)
-
 ## So here is the API:
 
     var Dequeue = require('dequeue')
