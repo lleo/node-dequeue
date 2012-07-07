@@ -1,7 +1,7 @@
 {
   "name"  : "dequeue"
 , "main"  : "./lib/index.js"
-, "version" : "1.0.0"
+, "version" : "1.0.1"
 , "description" : "A simple double ended queue datastructure"
 , "keywords"    : ["datastructure", "queue", "double ended queue", "fifo", "FIFO", "linked list"]
 , "homepage"    : "https://github.com/lleo/node-dequeue"
