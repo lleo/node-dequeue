@@ -8,6 +8,9 @@ scales up to millions of entries.
 
 It is a dropin replacement for javascript-arrays-as-fifo.
 
+I was convinced by [a blog posting](http://blog.izs.me/post/2353458699/an-open-letter-to-javascript-leaders-regarding) [by Issac Z. Schlueter](http://blog.izs.me/) that I don't need
+semicolons. So I don't use them.
+
 ## So here is the API:
 
     var Dequeue = require('dequeue')
