@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/lleo/node-dequeue.png)](http://travis-ci.org/lleo/node-dequeue)
 A Simple Double Ended Queue Datastructure
 =========================================
 
