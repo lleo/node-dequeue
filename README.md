@@ -52,6 +52,12 @@ Push a value on the beginning.
 ### `value = deque.shift()`
 Remove a value off the beginning.
 
+### `value = deque.last()`
+Examine the value of the end without removing it.
+
+### `value = deque.first()`
+Examine the value of the beginning without removing it.
+
 ### `deque.empty()`
 Remove all entries. This is NOT a test for an empty dequeue; use `deque.length`
 for that.
